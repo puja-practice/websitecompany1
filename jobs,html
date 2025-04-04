@@ -1,0 +1,26 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Openings - Kyros Digital</title>
+</head>
+<body>
+    <header>
+        <h1>Join Our Team</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="services.html">Services</a>
+            <a href="design.html">Design</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+    <section>
+        <h2>Current Openings</h2>
+        <ul>
+            <li>Software Engineer - Apply Now</li>
+            <li>UI/UX Designer - Apply Now</li>
+            <li>Project Manager - Apply Now</li>
+        </ul>
+    </section>
+</body>
+</html>
